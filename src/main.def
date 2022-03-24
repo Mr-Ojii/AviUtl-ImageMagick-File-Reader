@@ -1,0 +1,4 @@
+LIBRARY input
+
+EXPORTS
+	GetInputPluginTable @1
